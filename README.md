@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @LordAliCloner
-- 👀 I’m interested in:
+- 👀 I’m interested in;
+
 Programing: Python
-Gamin:      League of Legends, Valorant
-- 📫 How to reach me: 
+
+Game:      League of Legends, Valorant
+- 📫 How to reach me;
+
 Email:    lord.ali.cloner@gmail.com
+
 Telegram: T.me/Ali_Cloner
 
 <!---
